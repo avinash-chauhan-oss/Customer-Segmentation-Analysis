@@ -1,2 +1,2 @@
 # Customer-Segmentation-Analysis
-Unsupervised Machine Learning project that identifies high-value customer segments using Python, Scikit-Learn, and Principal Component Analysis (PCA)
+Customer Segmentation Analysis This project analyzes a dataset of mall customers to identify distinct spending patterns and group them into actionable segments. By leveraging K-Means Clustering for grouping and Principal Component Analysis (PCA) for dimensionality reduction, this analysis highlights key customer personas (such as "VIPs" and "Budget Shoppers") to help businesses optimize their marketing strategies.
