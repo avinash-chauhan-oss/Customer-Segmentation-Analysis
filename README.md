@@ -18,7 +18,7 @@ Based on the algorithmic grouping, five distinct consumer profiles were identifi
 5. **Budget Customers:** Low Income, Low Spending.
 
 ## Visualizing the Clusters
-![Cluster Visualization](./img/cluster_plot.png)
+![Cluster Visualization](./preview.jpg)
 
 ## Repository Structure
 ```text
